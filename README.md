@@ -19,6 +19,3 @@ When the application starts for the first time, create the system operator and c
 * classes.py: contains the classes and campus booking rules.
 * database.py: stores and manages data in the database.
 * gui.py: contains the graphical user interface (GUI).
-
-# Link to github repository
-https://github.com/Njabulo-bit-bit/Assignment-512.git
